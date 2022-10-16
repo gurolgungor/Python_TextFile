@@ -6,5 +6,5 @@ TextFileCreate.py dosyası içerisinde örnek yer almaktadır.
 * TextFile dosyasına kayıt yazma (Insert)
 TextFileInsert.py dosyası içerisinde örnek yer almaktadır.
 
-* TextFile dosyasına kayıt yazma (Select)
+* TextFile dosyasına kayıt okuma (Select)
 TextFileSelect.py dosyası içerisinde örnek yer almaktadır.
