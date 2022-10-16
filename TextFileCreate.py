@@ -17,3 +17,6 @@ f = open(TextDosyasi,"w")
 
 #islem detayi yazilir.
 print(f)
+
+#Text dosyayı kapatıyoruz
+f.close()
