@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        TextFileCreate.py
+# Name:        TextFileInsert.py
 # Purpose:
 #
 # Author:      Gürol Güngör
